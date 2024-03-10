@@ -1,11 +1,9 @@
 ![MainHead](https://drive.google.com/uc?export=view&id=17qX2Pi2zrpPXkSOcj9ETPUU56bSsnUA9) 
 <h1 align="center">Hi 👋, I'm Massi</h1>
 <h3 align="center">A passionate Data Scientist from the UK</h3>
-<img align="right" alt="Data Science" width="500" src='https://drive.google.com/uc?export=view&id=17pjS4aQPJnIKjmLD0uK8pY7v6OTQsth4'>
+<img align="right" alt="Data Science" width="400" src='https://drive.google.com/uc?export=view&id=18kNUHbU8N1FqMBFYu77_llFoRGeVksPh'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmassik&label=Profile%20views&color=0e75b6&style=flat" alt="kmassik" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kmassik" alt="kmassik" /></a> </p>
 
 - 🔭 I’m currently working on [Tatanic Dataset on Kaggle](https://www.kaggle.com/datasets/brendan45774/test-file)
 
@@ -20,7 +18,6 @@
 - 📄 Know about my experiences [www.linkedin.com/in/massi-keita-b12798101](www.linkedin.com/in/massi-keita-b12798101)
 
 - ⚡ Fun fact **I speak 2 languages and trying Walsh for fun**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,3 +34,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kmassik&show_icons=true&locale=en" alt="kmassik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kmassik&" alt="kmassik" /></p>
+
+
+
+
+
+
+
