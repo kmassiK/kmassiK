@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmassik&label=Profile%20views&color=0e75b6&style=flat" alt="kmassik" /> </p>
 
-- 🔭 I’m currently working on [Tatanic Dataset on Kaggle](https://www.kaggle.com/datasets/brendan45774/test-file)
+- 🔭 I’m currently working on [Predictive Modeling for Agriculture](https://app.datacamp.com/learn/projects/1772) at DataCamp
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m  enrolled as a learner at DataCamp and working towards an **Associate Data Scientist Certificate**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kmassiK](https://github.com/kmassiK)
 
-- 💬 Ask me about **Python, Jupyter Notebook**
+- 💬 Ask me about **Python, Data Analysis, Supervised Learning, NLP and LLMs**
 
 - 📫 How to reach me **kmas@live.co.uk**
 
